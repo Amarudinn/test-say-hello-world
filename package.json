@@ -1,0 +1,28 @@
+{
+  "name": "test-say-hello-world",
+  "version": "1.0.0",
+  "description": "test say hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amarudinn/test-say-hello-world.git"
+  },
+  "keywords": [
+    "test",
+    "say",
+    "hello",
+    "world"
+  ],
+  "author": "Amarudinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amarudinn/test-say-hello-world/issues"
+  },
+  "homepage": "https://github.com/Amarudinn/test-say-hello-world#readme",
+  "dependencies": {
+    "connect-wallet-metamask": "^1.0.1"
+  }
+}
